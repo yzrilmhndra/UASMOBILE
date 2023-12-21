@@ -1,0 +1,173 @@
+<resources>
+    <string name="app_name">recyclerview</string>
+    <string name="judul">judul</string>
+    <string name="description">description</string>
+    <string-array name="judul_video">
+        <item>Selamat ulang tahun</item>
+        <item>Potong bebek angsa</item>
+        <item>cicak-cicak di dinding</item>
+        <item>Topi saya bundar</item>
+        <item>Nina bobo</item>
+        <item>Balon ku ada 5</item>
+        <item>Lihat kebunku</item>
+        <item>Aku anak sehat</item>
+        <item>Burung kakak tua</item>
+        <item>Naik delman</item>
+        <item>Aku sayang ibu</item>
+        <item>Anak kambing saya</item>
+        <item>Bintang kecil</item>
+        <item>Anak gembala</item>
+        <item>Aku seorang kapiten</item>
+
+
+    </string-array>0
+    <string-array name="data_dekripsi">
+        <item>Selamat Ulang Tahun adalah lagu yang umumnya dinyanyikan untuk merayakan hari ulang tahun seseorang.
+            Sinopsis lagu ini mencerminkan ucapan selamat dan harapan-harapan baik untuk seseorang yang sedang merayakan ulang tahunnya.
+            Liriknya seringkali mencakup ungkapan kebahagiaan, cinta, dan harapan untuk kehidupan yang penuh berkah dan sukses di tahun-tahun mendatang.
+            Judul "Selamat Ulang Tahun" umumnya digunakan untuk lagu yang dinyanyikan pada perayaan ulang tahun, terutama di kalangan anak-anak.
+            Meskipun banyak versi lagu ini, pada umumnya lagu tersebut memiliki lirik yang mengucapkan selamat ulang tahun kepada orang yang merayakan hari
+            lahirnya.Sinopsis dari lagu ini biasanya mencakup tema kebahagiaan, perayaan, dan keinginan baik untuk orang yang merayakan ulang tahun.
+            Lirik seringkali mencakup ungkapan cinta, harapan, dan kebahagiaan atas pertambahan usia seseorang.
+            Lagu ini biasanya dinyanyikan dengan semangat dan diiringi dengan irama yang ceria. Meskipun sederhana,
+            lagu ini sangat populer.</item>
+
+        <item>Potong Bebek Angsa adalah sebuah lagu anak-anak yang populer di Indonesia. Lagu ini umumnya dinyanyikan dalam konteks permainan
+            anak-anak dan memiliki unsur lirik yang bersifat humor.Lagu ini melibatkan serangkaian potongan bebek angsa dan mengajarkan konsep
+            hitungan mundur dari 10 ke 1. Setiap potongan bebek angsa disertai dengan lirik yang menyebutkan jumlah sisa bebek angsa setelah
+            potongan tersebut dilakukan.Lagu ini juga dapat menjadi media yang menyenangkan untuk mengasah kreativitas anak-anak.
+            Anak-anak dapat memainkan permainan atau gerakan tubuh yang sesuai dengan lirik, seperti menghitung jari atau menggunakan
+            tangan mereka untuk menggambarkan potongan bebek angsa.Secara tidak langsung, lagu ini membantu mengajarkan konsep matematika
+            dasar kepada anak-anak, khususnya hitungan mundur. Sambil bernyanyi, anak-anak dapat belajar tentang urutan angka dan bagaimana
+            mengurangkan satu dari angka sebelumnya.Lagu ini memiliki nuansa yang lucu dan ceria, membuatnya menyenangkan untuk dinyanyikan oleh anak-anak.
+            Karakter bebek angsa yang diimajinasikan sebagai potongan-potongan.</item>
+
+        <item>Cicak-Cicak di Dinding adalah lagu tradisional anak-anak yang sangat populer di Indonesia.
+            Lagu ini sering dinyanyikan oleh anak-anak sebagai bagian dari permainan atau kegiatan menyenangkan.
+            Lagu ini dimulai dengan menggambarkan sebuah cicak yang berada di dinding. Cicak adalah hewan kecil yang
+            seringkali dapat ditemui di sekitar rumah atau lingkungan tempat anak-anak bermain.Selama menyanyikan lagu ini,
+            anak-anak seringkali melibatkan gerakan tubuh yang sesuai. Mereka dapat menirukan gerakan cicak dengan jari-jari
+            mereka atau menggambarkan cicak yang berjalan di dinding dengan gerakan tubuh. Lagu ini memiliki unsur hitungan mundur,
+            di mana setiap bait mengurangkan jumlah cicak di dinding. Misalnya, "Satu dilempar, tinggal lah satu" menunjukkan bahwa satu
+            cicak telah dilempar atau jatuh.</item>
+
+        <item>Topi Saya Bundar adalah salah satu lagu anak-anak yang populer di Indonesia. Lagu ini sering dinyanyikan oleh anak-anak
+            di berbagai kesempatan, seperti di sekolah atau acara keluarga. Lagu ini dimulai dengan menyebutkan bahwa topi yang
+            dikenakan adalah bundar. Ini adalah elemen yang mencolok dalam lagu ini dan menjadi fokus dari setiap bait.
+            Setiap bait kemudian menjelajahi bentuk topi dan memberikan deskripsi singkat tentang bagaimana topi itu terlihat. Misalnya,
+            "Topi saya bulat, bukan kotak" menunjukkan bahwa topi tersebut memiliki bentuk bundar dan bukan kotak.
+            Seperti banyak lagu anak-anak, "Topi Saya Bundar" seringkali disertai dengan gerakan tubuh yang sesuai.
+            Anak-anak dapat menunjukkan bentuk bundar dengan tangan mereka atau memegang kepala mereka untuk menunjukkan bahwa mereka mengenakan topi.
+            Lagu ini memiliki lirik yang sederhana.</item>
+
+        <item>Lagu ini menceritakan seorang ibu yang meraih anaknya untuk tidur.
+            Ibu berbicara lembut kepada anaknya, meminta agar si kecil segera tertidur dengan nyenyak.
+            Ibu menggunakan kata-kata yang menenangkan dan mengajak anaknya untuk bermimpi indah.
+            Lagu ini juga mencakup elemen seperti embun pagi, bunga-bunga, dan bulan yang bersinar di langit.
+            Nina Bobo adalah sejenis lullaby atau lagu pengantar tidur yang digunakan untuk membuat anak-anak
+            merasa tenang dan rileks sehingga dapat tidur dengan nyaman. Melalui melodi yang lembut dan lirik yang
+            mengandung unsur kelembutan, lagu Nina Bobo menjadi pilihan umum untuk menenangkan anak-anak sebelum tidur.</item>
+
+        <item>Lagu ini menceritakan tentang lima balon yang mengambang di udara. Setiap balon memiliki warna
+            yang berbeda, seperti merah, kuning, biru, hijau, dan ungu. Balon-balon itu mengambang tinggi dan
+            indah di langit. Namun, kemudian terjadi sesuatu yang membuat balon-balon itu pecah satu per satu.
+            Misalnya, seekor kucing mengejar balon atau karena faktor lain yang tidak disebutkan. Lagu ini dimulai
+            dengan menggambarkan adanya lima balon yang berada di udara. Setiap balon memiliki warna yang berbeda,
+            dan mereka melayang-layang dengan riang gembira. Lirik lagu mengenalkan anak-anak pada warna-warna yang
+            berbeda dari setiap balon, seringkali disertai dengan nomor untuk menyebutkan urutannya.
+            Contohnya, balon hijau muda berwarna, dan ini yang kedua.Lagu ini juga menyisipkan unsur matematika sederhana,.</item>
+
+         <item>Makna syair pada lagu tersebut adalah menceritakan keindahan dan keberagaman bunga di kebun yang tumbuh
+             indah karena dirawat dengan baik dan disiram setiap hari. Lihat Kebunku merupakan salah satu lagu anak-anak karya
+             Saridjah Niung atau Ibu Sud, pencipta lagu anak ternama di Indonesia.Lagu ini dimulai dengan mengajak pendengar
+             untuk melihat kebun. Kebun di sini bisa berarti kebun sayur, kebun bunga, atau tempat di mana berbagai jenis tanaman ditanam.
+             Lirik lagu menjelaskan berbagai jenis tanaman yang dapat ditemui di kebun, seperti bunga melati, anggur, pisang, dan lainnya.
+             Ini memberikan gambaran tentang keragaman dan keindahan di kebun. Lagu ini menyoroti hubungan anak-anak dengan alam dan kebun.
+             Anak-anak diajak untuk mengamati dan berinteraksi dengan tanaman serta hewan-hewan kecil yang mungkin ada di kebun.
+             Musik dan ritme lagu ini dirancang agar ceria dan mudah diikuti oleh anak-anak. Melalui irama yang riang,
+             lagu ini menciptakan suasana yang menyenangkan dan menggugah semangat.
+             Lagu ini juga merangsang imajinasi anak-anak.</item>
+
+
+            <item>Lirik lagu Aku Anak Sehat mengandung pesan-pesan penting tentang perawatan dan gizi anak-anak.
+                Dalam lirik lagu ini, pesan-pesan tersebut sangat jelas ASI dan Gizi Bergizi Lagu ini menekankan
+                pentingnya pemberian ASI (Air Susu Ibu) dan makanan bergizi untuk perkembangan anak. Lagu Aku Anak
+                Indonesia merupakan lagu yang mengajak anak Indonesia untuk menjadi anak yang bangga menjadi seorang
+                warga negara Indonesia.</item>
+
+            <item>Lagu ini bercerita tentang seekor burung kakak tua yang memiliki warna bulu yang indah dan memiliki
+                suara yang merdu. Burung kakak tua ini sering terlihat dan terdengar di sekitar lingkungan. Anak-anak biasanya
+                senang menyanyikan lagu ini karena memiliki melodi yang ceria dan lirik yang sederhana
+                Lagu ini dapat digunakan sebagai sarana pembelajaran untuk anak-anak, tidak hanya untuk mengenal nama-nama
+                burung dan warna bulu, tetapi juga untuk mengembangkan keterampilan bahasa dan musikalitas mereka. </item>
+
+            <item>Lagu ini menceritakan tentang pengalaman naik delman atau kereta kuda. Para penumpang, yang sering kali anak-anak,
+                menikmati perjalanan yang riang dan penuh kegembiraan. Mereka melintasi jalan, melewati jembatan, dan menyanyi dengan
+                penuh semangat selama perjalanan mereka. Sepanjang lagu, terdapat deskripsi peristiwa dan pemandangan yang ditemui selama
+                perjalanan dengan delman.</item>
+
+            <item>Lagu ini menceritakan tentang rasa cinta dan kasih sayang seorang anak terhadap ibunya. Lirik lagu mencakup ekspresi perasaan
+                terima kasih, penghargaan, dan rasa sayang yang mendalam kepada ibu. Ada kemungkinan lagu ini juga menggambarkan momen atau
+                pengalaman khusus yang membuat anak tersebut merasa bersyukur dan mengakui peran penting ibunya dalam hidupnya.</item>
+
+            <item>Lagu ini menceritakan kisah seorang anak yang memiliki seekor kambing. Dalam lagu, anak tersebut
+                merawat kambingnya dengan penuh kasih sayang. Anak itu menyebutkan ciri-ciri kambingnya, seperti warna
+                bulunya dan suara yang dihasilkannya. Lagu ini juga mencakup elemen humor, di mana anak itu mengekspresikan
+                rasa bahagianya ketika kambingnya memberikan susu.</item>
+
+
+        <item>Lagu ini mengisahkan tentang seorang anak kecil yang bernyanyi kepada bintang kecil di langit. Anak tersebut
+            mengekspresikan kagum dan kekagumannya terhadap keindahan bintang kecil yang bersinar di malam hari. Dalam liriknya,
+            anak itu meminta bintang kecil untuk turun dan bermain bersamanya.</item>
+
+        <item>Lagu Anak Gembala adalah sebuah lagu rakyat Indonesia yang menceritakan tentang seorang anak gembala yang menjaga
+            kambing-kambingnya. Berikut adalah sinopsis atau ringkasan dari lagu tersebut
+            Lagu ini menggambarkan kehidupan seorang anak gembala yang setiap hari menjaga kambing-kambingnya di padang
+            rumput. Dalam lirik lagu, anak gembala tersebut menyanyikan pengalamannya yang sederhana namun bahagia.
+            Dia menjelaskan kegiatan sehari-harinya seperti bermain bersama kambing, merajut topi dari daun pisang,
+            dan menikmati keindahan alam di sekitarnya.</item>
+
+        <item>Lagu ini menceritakan perasaan seorang gembala yang bahagia menjalani kehidupannya di alam terbuka,
+            merawat dan menjaga kambing-kambingnya. Ia menikmati keindahan alam, menyanyikan lagu, dan berbagi kebahagiaan
+            dengan kambing-kambingnya. Melalui liriknya, lagu ini menciptakan gambaran tentang kehidupan sederhana namun penuh
+            kegembiraan dari sudut pandang seorang gembala.</item>
+
+    </string-array>
+
+    <array name="video_id">
+        <item>@raw/vid1</item>
+        <item>@raw/vid2</item>
+        <item>@raw/vid3</item>
+        <item>@raw/vid4</item>
+        <item>@raw/vid5</item>
+        <item>@raw/vid6</item>
+        <item>@raw/vid7</item>
+        <item>@raw/vid8</item>
+        <item>@raw/vid9</item>
+        <item>@raw/vid10</item>
+        <item>@raw/vid11</item>
+        <item>@raw/vid12</item>
+        <item>@raw/vid13</item>
+        <item>@raw/vid14</item>
+        <item>@raw/vid15</item>
+    </array>
+
+
+    <integer-array name="data_gambar">
+        <item>@drawable/gambar1</item>
+        <item>@drawable/gambar2</item>
+        <item>@drawable/gambar3</item>
+        <item>@drawable/gambar4</item>
+        <item>@drawable/gambar5</item>
+        <item>@drawable/gambar6</item>
+        <item>@drawable/gambar7</item>
+        <item>@drawable/gambar8</item>
+        <item>@drawable/gambar9</item>
+        <item>@drawable/gambar10</item>
+        <item>@drawable/gambar11</item>
+        <item>@drawable/gambar12</item>
+        <item>@drawable/gambar13</item>
+        <item>@drawable/gambar14</item>
+        <item>@drawable/gambar15</item>
+    </integer-array>
+</resources>
