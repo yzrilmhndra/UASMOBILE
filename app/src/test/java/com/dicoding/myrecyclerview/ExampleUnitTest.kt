@@ -1,4 +1,4 @@
-package com.example.recyclerview
+package com.dicoding.myrecyclerview
 
 import org.junit.Test
 
